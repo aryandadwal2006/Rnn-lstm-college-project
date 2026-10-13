@@ -1,6 +1,6 @@
 # RNN and LSTM NLP Mini Projects
 
-Minimal PyTorch notebook examples for:
+PyTorch notebook examples for:
 - Sentiment analysis with RNN and LSTM
 - Machine translation with RNN and LSTM encoder-decoder models
 - Text summarization with RNN and LSTM encoder-decoder models
